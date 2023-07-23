@@ -1,40 +1,40 @@
-$apt-get update -y
+apt-get update -y
 
 
 
 
 
-$apt-get upgrade -y 
+apt-get upgrade -y 
 
 
 
 
-$Install Git pkg
+install git pkg
 
 
 
-$apt-get install git -y
+apt-get install git -y
 
 
 
-$git clone https://github.com/bijayaTamang577/bijayaTamang577.git/
-
-
-
-
-
-$cd bijayaTamang577
+git clone https://github.com/BijayaTamang577/BijayaTamang577.git/
 
 
 
 
 
-$chmod +x *
+cd bijayaTamang577
 
 
 
-$bash setup.sh
+
+
+chmod +x *
 
 
 
-$python3 Bijaya.py
+bash setup.sh
+
+
+
+python3 Bijaya.py
